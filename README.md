@@ -52,6 +52,8 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ## 📧 Contact
 For any inquiries or suggestions, feel free to reach out at:
 
-GitHub: [Syed Ashfaquddin](https://github.com/Ashfaq03)
+GitHub: [@Ashfaq03](https://github.com/Ashfaq03)
+
+Linkedin: [Syed Ashfaquddin](https://www.linkedin.com/in/syedashfaquddin/)
 
 Start organizing your tasks today with Taskify! 😊
