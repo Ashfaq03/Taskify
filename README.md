@@ -25,12 +25,12 @@ Taskify is a simple and user-friendly to-do list application designed to help yo
 
 ## 📂 Project Structure
 
-Taskify-To-Do-App/
-├── index.html         # Main HTML file
-├── style.css          # Styling for the app
-├── app.js             # JavaScript functionality
-├── images/            # Folder for images (e.g., icon.png)
-└── README.md          # Project documentation
+    Taskify-To-Do-App/
+        ├── index.html         # Main HTML file
+        ├── style.css          # Styling for the app
+        ├── app.js             # JavaScript functionality
+        ├── images/            # Folder for images (e.g., icon.png)
+        └── README.md          # Project documentation
 
 ## 💻 Usage
 1. Open the app in your browser by double-clicking index.html.
